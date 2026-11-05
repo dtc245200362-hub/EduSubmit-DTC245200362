@@ -1,0 +1,14 @@
+C:\Code_demo\HelloPtudpt\bin\Debug\net10.0\HelloPtudpt.exe
+C:\Code_demo\HelloPtudpt\bin\Debug\net10.0\HelloPtudpt.deps.json
+C:\Code_demo\HelloPtudpt\bin\Debug\net10.0\HelloPtudpt.runtimeconfig.json
+C:\Code_demo\HelloPtudpt\bin\Debug\net10.0\HelloPtudpt.dll
+C:\Code_demo\HelloPtudpt\bin\Debug\net10.0\HelloPtudpt.pdb
+C:\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.AssemblyInfoInputs.cache
+C:\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.AssemblyInfo.cs
+C:\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.csproj.CoreCompileInputs.cache
+C:\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.dll
+C:\Code_demo\HelloPtudpt\obj\Debug\net10.0\refint\HelloPtudpt.dll
+C:\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.pdb
+C:\Code_demo\HelloPtudpt\obj\Debug\net10.0\HelloPtudpt.genruntimeconfig.cache
+C:\Code_demo\HelloPtudpt\obj\Debug\net10.0\ref\HelloPtudpt.dll
